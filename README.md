@@ -1,4 +1,4 @@
-# Lovely Day
+# Lovely Day (Abandoned)
 
 🕉️ <b>Lovely Day, Horoscope is a beautiful, minimalist and ad-free horoscope app. It's quick and easy to use! [Download now](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday) and access your horoscope with daily weekly and monthly predictions in literally just on click!  </b>☯️  
   
@@ -22,7 +22,7 @@
   
 ## Installation
 
-Install it from [Google Play](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday)
+Install it from [Google Play](https://play.google.com/store/apps/details?id=xyz.skrawlr.lovelyday) (Abandoned, broke following Android updates)
 
 ## Usage
 
@@ -33,7 +33,6 @@ Step 3. Be amazed
 ## Author
 <b>Andrew Keymolen</b>  
 Contact: andrewkeymolen@gmail.com
-Website: [andrewkeymolen.com](https://andrewkeymolen.com/)
 GitHub: [@AndrewKeymolen](https://github.com/AndrewKeymolen)
 
 ## Contributing
